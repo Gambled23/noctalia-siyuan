@@ -1,8 +1,12 @@
 {
   "name": "noctalia-siyuan",
   "author": "gambled23",
-  "url": "https://github.com/gambled23",
-  "version": "1.0",
+  "url": "https://github.com/Gambled23/noctalia-siyuan",
+  "version": "1.1",
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
   "modes": [
     "dark",
     "light"
